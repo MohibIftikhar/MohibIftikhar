@@ -7,18 +7,6 @@
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/mohib-ullah-iftikhar-4b4534318">
-    <img src="https://cdn.simpleicons.org/linkedin" height="32"/>
-  </a>
-  <a href="mailto:mohibullahiftikhar123.com">
-    <img src="https://cdn.simpleicons.org/gmail" height="32"/>
-  </a>
-</p>
-
----
-
 ### 🧠 About Me
 - 🔭 I’m currently working on AI/ML projects and scalable web applications.
 - 🌱 I’m exploring advanced MLOps, model optimization, and deploying AI at scale.
@@ -68,7 +56,17 @@
 
 ---
 
+
+
 ### 🌟 Fun Section
 - 🎯 Goal: Deploy cutting-edge AI models with full automation.
 - 📚 Currently learning: Large language models, advanced computer vision.
 - 🤖 Passionate about: AI-powered applications and scalable backend systems.
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/mohib-ullah-iftikhar-4b4534318" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="32" alt="LinkedIn"/>
+  </a>
+</p>
+
