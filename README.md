@@ -65,8 +65,8 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/mohib-ullah-iftikhar-4b4534318" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="32" alt="LinkedIn"/>
+  <a href="mailto:mohibullahiftikhar123@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="32" alt="Email"/>
   </a>
 </p>
 
