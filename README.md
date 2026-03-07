@@ -47,6 +47,15 @@
 
 ---
 
+---
+
+### 💼 Core Expertise
+
+- **🖼️ Computer Vision:** Specialized in Image Segmentation (UNet), Object Detection (YOLO), and Feature Extraction using VAEs.  
+- **🦷 Medical AI:** Experience handling complex dental radiographs and overcoming challenges like metal artifacts (implants/bridges).  
+- **⚙️ MLOps:** Building robust pipelines with Airflow, MLflow, and Docker to ensure model reproducibility and seamless deployment.  
+- **🌐 Full-Stack Development:** Crafting high-performance backends with FastAPI and Node.js and modern frontends using Next.js.
+
 ### 📊 GitHub Stats
 <p align="center">
 
