@@ -45,7 +45,6 @@
   <a href="https://pjreddie.com/darknet/yolo/"><img src="https://cdn.simpleicons.org/yolo" height="48"/></a>
 </p>
 
----
 
 ---
 
