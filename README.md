@@ -59,10 +59,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohibIftikhar&theme=tokyonight" height="170"/>
-
+ <img src="https://streak-stats.demolab.com?user=MohibIftikhar&theme=tokyonight" />
 </p>
+
 
 ---
 
