@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohibIftikhar&label=Profile%20views&color=0e75b6&style=flat" alt="MohibIftikhar" /> </p>
+
 <h1 align="center">Hi, I'm Mohib Ullah Ifitkhar 👋</h1>
 <h3 align="center">AI/ML Full-Stack & MLOps Engineer | Building intelligent systems and scalable applications 🚀</h3>
 
@@ -72,10 +74,14 @@
 - 📚 Currently learning: Large language models, advanced computer vision.
 - 🤖 Passionate about: AI-powered applications and scalable backend systems.
 
-### 🌐 Connect with Me
+<h3 align="left">Connect with me:</h3>
+
 <p align="center">
-  <a href="mailto:mohibullahiftikhar123@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="32" alt="Email"/>
-  </a>
+<a href="mailto:fmohibullahiftikhar123@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail" height="35"/>
+</a>&nbsp;&nbsp;&nbsp;<a href="www.linkedin.com/in/mohib-ullah-iftikhar-4b4534318">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35"/>
+</a>
 </p>
+
 
