@@ -76,12 +76,16 @@
 
 <h3 align="left">Connect with me:</h3>
 
+<h3 align="center">Connect with me</h3>
+
 <p align="center">
-<a href="mailto:fmohibullahiftikhar123@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail" height="35"/>
-</a>&nbsp;&nbsp;&nbsp;<a href="www.linkedin.com/in/mohib-ullah-iftikhar-4b4534318">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35"/>
-</a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohibullahiftikhar123@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail" height="35" alt="gmail"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohib-ullah-iftikhar-4b4534318" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" alt="linkedin"/>
+  </a>
 </p>
 
 
