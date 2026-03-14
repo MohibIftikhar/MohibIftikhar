@@ -76,8 +76,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<h3 align="center">Connect with me</h3>
-
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohibullahiftikhar123@gmail.com" target="_blank">
     <img src="https://cdn.simpleicons.org/gmail" height="35" alt="gmail"/>
